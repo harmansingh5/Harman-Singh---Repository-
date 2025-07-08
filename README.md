@@ -1,1 +1,1 @@
- # (Z+7)²
+ # (Z+7)² by Harman Singh 
